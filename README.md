@@ -1,4 +1,3 @@
-# OOP-market
 # task "Market"
 You need to find, weigh and buy 15 items in supermarket.
 Every item should have place, price and weight.
